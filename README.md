@@ -7,9 +7,9 @@
 
 <br/>
 
-<a href="https://www.linkedin.com/in/senthamizh-selvi-i-298451359"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Senthamizh-Selvi18"><img src="https://img.shields.io/badge/GitHub-FF6584?style=for-the-badge&logo=github&logoColor=white" /></a>
-<img src="https://komarev.com/ghpvc/?username=Senthamizh-Selvi18&style=for-the-badge&color=6C63FF&label=VIEWS" />
+<a href="https://www.linkedin.com/in/senthamizh-selvi-i-298451359"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://github.com/Senthamizh-Selvi18"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF6584" /></a>
+<img src="https://komarev.com/ghpvc/?username=Senthamizh-Selvi18&style=for-the-badge&color=000000&label=VIEWS" />
 
 </div>
 
@@ -23,7 +23,6 @@ I'm a third-year CSE student who likes projects where the interesting part isn't
 const senthamizhSelvi = {
   year: "3rd Year, CSE",
   stack: "MERN",
-  currentlyGrinding: "DSA + system design fundamentals",
   believes: "The best portfolio project solves a problem someone actually has",
   status: "Open to internships & collaborations 🚀"
 };
@@ -38,7 +37,6 @@ const senthamizhSelvi = {
 
 Sketch a floorplan, get back a real, computed paint cost — not a rough guess. Most floorplan tools stop at design; this one turns wall dimensions and surface area directly into a budget number, bridging the "design tool" and "budgeting tool" that usually live in separate apps.
 
-`React` `Node.js` `Express` `MongoDB`
 
 ---
 
@@ -47,7 +45,6 @@ Sketch a floorplan, get back a real, computed paint cost — not a rough guess. 
 
 Reads multispectral imagery to assess water quality — pulling signal out of data that's invisible in a normal photo. The core challenge was translating raw spectral data into something a non-technical user can actually read and act on.
 
-`JavaScript` `Multispectral Image Processing` `MongoDB`
 
 <br/>
 
@@ -91,8 +88,8 @@ Reads multispectral imagery to assess water quality — pulling signal out of da
 
 Open to internships, collaborations, and problems worth solving.
 
-<a href="https://www.linkedin.com/in/senthamizh-selvi-i-298451359"><img src="https://img.shields.io/badge/Let's%20Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://github.com/Senthamizh-Selvi18"><img src="https://img.shields.io/badge/See%20My%20Code-FF6584?style=for-the-badge&logo=github&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/senthamizh-selvi-i-298451359"><img src="https://img.shields.io/badge/Let's%20Connect-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
+<a href="https://github.com/Senthamizh-Selvi18"><img src="https://img.shields.io/badge/See%20My%20Code-000000?style=for-the-badge&logo=github&logoColor=FF6584" /></a>
 
 <br/><br/>
 
