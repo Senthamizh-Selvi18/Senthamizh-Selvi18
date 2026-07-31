@@ -1,69 +1,100 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:1a1a2e,100:16213e&height=180&section=header&text=Senthamizh%20Selvi&fontSize=42&fontColor=E8E8E8&fontAlignY=40&desc=Third-Year%20CSE%20Student%20%C2%B7%20MERN%20Stack%20Developer&descAlignY=62&descSize=15&descColor=9E9E9E" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6584&height=200&section=header&text=Hi,%20I'm%20Senthamizh%20Selvi&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CSE%20Student%20%7C%20MERN%20Stack%20Developer%20%7C%20Builder&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Third-Year+CSE+Student;Turning+ideas+into+working+software;MERN+Stack+%7C+DSA+%7C+Real-World+Problems;Currently+building+cost+engines+%26+water+sensors" alt="Typing SVG" />
+
+<br/>
+
+<a href="https://www.linkedin.com/in/senthamizh-selvi-i-298451359"><img src="https://img.shields.io/badge/LinkedIn-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Senthamizh-Selvi18"><img src="https://img.shields.io/badge/GitHub-FF6584?style=for-the-badge&logo=github&logoColor=white" /></a>
+<img src="https://komarev.com/ghpvc/?username=Senthamizh-Selvi18&style=for-the-badge&color=6C63FF&label=VIEWS" />
 
 </div>
 
 <br/>
 
-I build full-stack applications end-to-end — from data model to UI — and I like projects where the hard part isn't the CRUD, it's the domain logic underneath it. That's the thread connecting a floorplan cost engine and a water-quality analyzer: both needed real computation, not just a form and a database.
+## 🎯 About Me
 
-Currently in my third year of CSE, spending most of my time between DSA practice and shipping MERN projects that solve an actual problem rather than tick a portfolio box.
+I'm a third-year CSE student who likes projects where the interesting part isn't the CRUD — it's the logic underneath it. I build full-stack apps end-to-end and I'm most engaged when a project needs actual computation, not just a form and a database.
+
+```javascript
+const senthamizhSelvi = {
+  year: "3rd Year, CSE",
+  stack: "MERN",
+  currentlyGrinding: "DSA + system design fundamentals",
+  believes: "The best portfolio project solves a problem someone actually has",
+  status: "Open to internships & collaborations 🚀"
+};
+```
 
 <br/>
 
-### Projects
+## 🚀 Featured Projects
 
-**BuildWise Aether** — 2D floorplan generator with real-time paint cost estimation
-A tool that lets users sketch out a 2D floorplan and get back an actual, computed paint cost — turning wall dimensions and surface area into a real estimate instead of a rough guess. Built to bridge the gap between "design tool" and "budgeting tool," which most floorplan apps treat as separate problems.
+### 🏗️ BuildWise Aether
+**A 2D floorplan generator with real-time paint cost estimation**
+
+Sketch a floorplan, get back a real, computed paint cost — not a rough guess. Most floorplan tools stop at design; this one turns wall dimensions and surface area directly into a budget number, bridging the "design tool" and "budgeting tool" that usually live in separate apps.
+
 `React` `Node.js` `Express` `MongoDB`
 
-**AquaVision** — Water quality analyzer using multispectral image analysis
-Analyzes multispectral imagery to assess water quality — extracting signal from image data that isn't visible in a normal photo. The interesting problem here was translating spectral data into something a non-technical user could actually read and act on.
+---
+
+### 💧 AquaVision
+**A water quality analyzer powered by multispectral image analysis**
+
+Reads multispectral imagery to assess water quality — pulling signal out of data that's invisible in a normal photo. The core challenge was translating raw spectral data into something a non-technical user can actually read and act on.
+
 `JavaScript` `Multispectral Image Processing` `MongoDB`
 
-*(Add GitHub repo links here once pushed — recruiters click through to code before anything else.)*
+<br/>
+
+> *Add your GitHub repo links here once pushed — recruiters click into the code before anything else.*
 
 <br/>
 
-### Stack
+## 🛠 Tech Stack
 
-**Languages** — JavaScript · C · C++ · Java
-**Frontend** — HTML · CSS · React
-**Backend** — Node.js · Express
-**Database** — MongoDB
-**Tools** — Git · GitHub · VS Code
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,cpp,c,java,html,css,react,nodejs,express,mongodb,git,github,vscode&perline=7" />
+</p>
 
 <br/>
 
-### Right now
+## 📌 Currently
 
-- Strengthening data structures & algorithms — daily problem-solving
-- Deepening MERN stack fluency past tutorial-level, into real architecture decisions
-- Learning software engineering practices that don't show up in coursework: code review habits, system design basics, writing code others can read
-- Open to internships and collaborative projects with real users behind them
+- 🧩 Strengthening **DSA** — daily problem-solving, not just theory
+- ⚛️ Pushing MERN skills past tutorial-level into real architecture decisions
+- 📐 Picking up software engineering habits that don't show up in coursework
+- 🎯 Actively looking for **internships** and projects with real users behind them
 
 <br/>
 
-### Activity
+## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Senthamizh-Selvi18&show_icons=true&hide_border=true&theme=transparent&title_color=E8E8E8&icon_color=8892B0&text_color=9E9E9E&bg_color=00000000" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senthamizh-Selvi18&layout=compact&hide_border=true&theme=transparent&title_color=E8E8E8&text_color=9E9E9E&bg_color=00000000" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Senthamizh-Selvi18&show_icons=true&hide_border=true&theme=radical&count_private=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Senthamizh-Selvi18&layout=compact&hide_border=true&theme=radical" height="165"/>
+</div>
+
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Senthamizh-Selvi18&hide_border=true&theme=radical" />
 </div>
 
 <br/>
 
-### Connect
+## 📫 Let's Connect
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/senthamizh-selvi-i-298451359">LinkedIn</a>
-&nbsp;·&nbsp;
-<a href="https://github.com/Senthamizh-Selvi18">GitHub</a>
+Open to internships, collaborations, and problems worth solving.
 
-</div>
+<a href="https://www.linkedin.com/in/senthamizh-selvi-i-298451359"><img src="https://img.shields.io/badge/Let's%20Connect-6C63FF?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://github.com/Senthamizh-Selvi18"><img src="https://img.shields.io/badge/See%20My%20Code-FF6584?style=for-the-badge&logo=github&logoColor=white" /></a>
 
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:16213e,100:1a1a2e&height=100&section=footer" width="100%"/>
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6584,100:6C63FF&height=100&section=footer" width="100%"/>
+
 </div>
