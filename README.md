@@ -1,6 +1,7 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:FF6584&height=200&section=header&text=Hi,%20I'm%20Senthamizh%20Selvi&fontSize=36&fontColor=ffffff&fontAlignY=35&desc=CSE%20Student%20%7C%20MERN%20Stack%20Developer%20%7C%20Builder&descAlignY=55&descSize=16&animation=fadeIn" width="100%"/>
+# Hi, I'm Senthamizh Selvi 👋
+### CSE Student · MERN Stack Developer · Builder
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Third-Year+CSE+Student;Turning+ideas+into+working+software;MERN+Stack+%7C+DSA+%7C+Real-World+Problems;Currently+building+cost+engines+%26+water+sensors" alt="Typing SVG" />
 
@@ -95,6 +96,6 @@ Open to internships, collaborations, and problems worth solving.
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6584,100:6C63FF&height=100&section=footer" width="100%"/>
+⭐ *Thanks for stopping by — always happy to talk code, collaborate, or connect.*
 
 </div>
