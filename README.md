@@ -9,10 +9,8 @@
 
 <a href="https://www.linkedin.com/in/senthamizh-selvi-i-298451359"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" /></a>
 <a href="https://github.com/Senthamizh-Selvi18"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=FF6584" /></a>
-<img src="https://komarev.com/ghpvc/?username=Senthamizh-Selvi18&style=for-the-badge&color=000000&label=VIEWS" />
 
 </div>
-
 <br/>
 
 ## 🎯 About Me
@@ -30,6 +28,12 @@ const senthamizhSelvi = {
 
 <br/>
 
+## 💼 Experience
+
+- **Infosys Springboard 7.0 Internship** — ongoing
+
+<br/>
+
 ## 🚀 Featured Projects
 
 ### 🏗️ BuildWise Aether
@@ -37,6 +41,7 @@ const senthamizhSelvi = {
 
 Sketch a floorplan, get back a real, computed paint cost — not a rough guess. Most floorplan tools stop at design; this one turns wall dimensions and surface area directly into a budget number, bridging the "design tool" and "budgeting tool" that usually live in separate apps.
 
+🔗 [Live Demo](https://buildwise-aether-frontend.vercel.app/)
 
 ---
 
@@ -45,10 +50,9 @@ Sketch a floorplan, get back a real, computed paint cost — not a rough guess. 
 
 Reads multispectral imagery to assess water quality — pulling signal out of data that's invisible in a normal photo. The core challenge was translating raw spectral data into something a non-technical user can actually read and act on.
 
+🔗 [Live Demo](https://aqua-vision-mauve.vercel.app/)
 
 <br/>
-
-
 <br/>
 
 ## 🛠 Tech Stack
@@ -56,7 +60,6 @@ Reads multispectral imagery to assess water quality — pulling signal out of da
 <p align="center">
   <img src="https://skillicons.dev/icons?i=js,cpp,c,java,html,css,react,nodejs,express,mongodb,git,github,vscode&perline=7" />
 </p>
-
 <br/>
 
 ## 📌 Currently
