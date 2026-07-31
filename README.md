@@ -48,7 +48,6 @@ Reads multispectral imagery to assess water quality — pulling signal out of da
 
 <br/>
 
-> *Add your GitHub repo links here once pushed — recruiters click into the code before anything else.*
 
 <br/>
 
