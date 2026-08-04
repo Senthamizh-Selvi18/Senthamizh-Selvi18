@@ -3,7 +3,7 @@
 # Hi, I'm Senthamizh Selvi 👋
 ### CSE Student · MERN Stack Developer · Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Third-Year+CSE+Student;Turning+ideas+into+working+software;MERN+Stack+%7C+DSA+%7C+Real-World+Problems"; alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Third-Year+CSE+Student;Building+Real-World+Software;MERN+Stack+Developer+%7C+DSA+Enthusiast;Always+Learning%2C+Always+Building" alt="Typing SVG" />
 
 <br/>
 
