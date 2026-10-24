@@ -18,7 +18,7 @@
 I'm a third-year CSE student who likes projects where the interesting part isn't the CRUD — it's the logic underneath it. I build full-stack apps end-to-end and I'm most engaged when a project needs actual computation, not just a form and a database.
 
 ```javascript
-const senthamizhSelvi = {
+const senthamizh_Selvi = {
   year: "3rd Year, CSE",
   stack: "MERN",
   believes: "The best portfolio project solves a problem someone actually has",
